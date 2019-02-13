@@ -1,0 +1,9 @@
+
+Devel
+    gcc-core : C compiler subpackage
+    gcc-g++ : C++ subpackage
+    libgcc1:C runtime library
+    gdb:The GNU debugger
+    make:The GNU verion of the make utitlity
+Libs
+    libmpfr4: A library for multiple-precision floating-point arithmetic with exact rounding
